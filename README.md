@@ -143,5 +143,3 @@ Contributions are welcome! If you would like to contribute to the project, feel 
 - [LangChain](https://github.com/hwchase17/langchain)
 
 ---
-
-Happy coding!
