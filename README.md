@@ -17,7 +17,7 @@ This project is a PDF Question-Answering Chatbot that uses Streamlit for the use
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/indugapallignaneswara/Retrieval-Augmented-Generation-RAG-Model-for-QA-Bot.git
+git clone https://github.com/Bhuvansai123/RAG-Model-for-QA-Bot.git
 cd Retrieval-Augmented-Generation-RAG-Model-for-QA-Bot
 ```
 ### Install dependencies: It's recommended to use a virtual environment for the installation.
